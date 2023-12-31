@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/Newsletter-sign-up-form-with-success-message-challenge)
-- [Live Site URL](https://mriyaz.github.io/Newsletter-sign-up-form-with-success-message-challenge/)
+- [Live Site URL](https://newsletter-sign-up-form-with-success-message-challenge.vercel.app/)
 
 ## My process
 
